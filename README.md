@@ -18,7 +18,7 @@
 >     addresses: [172.16.29.x/24]
 >     gateway4: 172.16.29.1
 >     nameservers:
->       addresses: [8.8.8.8,8.8.4.4]
+>       addresses: [172.16.1.10, 172.16.1.18]
 
 >  sudo netplan apply
 oppure
