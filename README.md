@@ -50,4 +50,4 @@ oppure
 > sudo  nano /etc/hosts
 >>bash
 >>127.0.0.1   localhost
->>ip sito.com
+>>ip sito.com yfutfg
